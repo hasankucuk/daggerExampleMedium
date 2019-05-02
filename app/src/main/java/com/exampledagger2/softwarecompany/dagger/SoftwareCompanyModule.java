@@ -10,7 +10,6 @@ import dagger.Provides;
 
 @Module
 public abstract class SoftwareCompanyModule {
-
     @Provides
    static SoftwareCompany provideSoftwareCompany(IDesigner designer, IDeveloper developer) {
         return new SoftwareCompany(designer, developer);

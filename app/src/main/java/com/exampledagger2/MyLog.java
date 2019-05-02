@@ -7,7 +7,6 @@ import com.exampledagger2.softwarecompany.BuildConfig;
 
 
 public final class MyLog {
-
     /**
      * The Constant TAG.
      */

@@ -11,7 +11,6 @@ import dagger.Provides;
 
 @Module
 public abstract class AndroidDeveloperModule {
-
     @Binds
     abstract IDeveloper developer(AndroidDeveloper androidDeveloper);
 

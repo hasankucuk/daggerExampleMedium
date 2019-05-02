@@ -11,7 +11,6 @@ import dagger.Provides;
 
 @Module
 public abstract class UiDesignerModule {
-
     @Binds
     abstract IDesigner bindDesigner(UiDesigner uiDesigner);
 

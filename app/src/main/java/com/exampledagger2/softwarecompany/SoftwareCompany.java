@@ -6,7 +6,6 @@ import com.exampledagger2.softwarecompany.dagger.PerActivity;
 import javax.inject.Inject;
 
 public class SoftwareCompany {
-
     private IDesigner designer;
     private IDeveloper developer;
 

@@ -6,7 +6,6 @@ import javax.inject.Inject;
 
 public class UiDesigner implements IDesigner {
 
-
     private Computer computer;
     private SketchApp sketchApp;
 
