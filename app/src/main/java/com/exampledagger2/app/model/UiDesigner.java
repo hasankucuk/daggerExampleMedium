@@ -1,6 +1,7 @@
-package com.exampledagger2.softwarecompany;
+package com.exampledagger2.app.model;
 
-import com.exampledagger2.MyLog;
+import com.exampledagger2.app.interfaces.IDesigner;
+import com.exampledagger2.app.util.MyLog;
 
 import javax.inject.Inject;
 

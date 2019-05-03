@@ -1,4 +1,4 @@
-package com.exampledagger2.softwarecompany;
+package com.exampledagger2.app.interfaces;
 
 public interface IDesigner {
 

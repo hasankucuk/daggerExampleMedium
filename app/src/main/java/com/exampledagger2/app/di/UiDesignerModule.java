@@ -1,9 +1,9 @@
-package com.exampledagger2.softwarecompany.dagger;
+package com.exampledagger2.app.di;
 
-import com.exampledagger2.softwarecompany.Computer;
-import com.exampledagger2.softwarecompany.IDesigner;
-import com.exampledagger2.softwarecompany.SketchApp;
-import com.exampledagger2.softwarecompany.UiDesigner;
+import com.exampledagger2.app.model.Computer;
+import com.exampledagger2.app.interfaces.IDesigner;
+import com.exampledagger2.app.model.SketchApp;
+import com.exampledagger2.app.model.UiDesigner;
 
 import dagger.Binds;
 import dagger.Module;

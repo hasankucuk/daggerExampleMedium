@@ -1,10 +1,12 @@
-package com.exampledagger2.softwarecompany;
+package com.exampledagger2.app.ui;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
 
-import com.exampledagger2.softwarecompany.dagger.DaggerAppComponent;
+import com.exampledagger2.app.R;
+import com.exampledagger2.app.model.SoftwareCompany;
+import com.exampledagger2.app.di.DaggerAppComponent;
 
 import javax.inject.Inject;
 

@@ -1,9 +1,9 @@
-package com.exampledagger2;
+package com.exampledagger2.app.util;
 
 
 import android.util.Log;
 
-import com.exampledagger2.softwarecompany.BuildConfig;
+import com.exampledagger2.app.BuildConfig;
 
 
 public final class MyLog {

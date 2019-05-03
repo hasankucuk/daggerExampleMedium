@@ -1,6 +1,6 @@
-package com.exampledagger2.softwarecompany.dagger;
+package com.exampledagger2.app.di;
 
-import com.exampledagger2.softwarecompany.MainActivity;
+import com.exampledagger2.app.ui.MainActivity;
 
 import javax.inject.Singleton;
 

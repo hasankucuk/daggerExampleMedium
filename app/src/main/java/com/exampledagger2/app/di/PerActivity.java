@@ -1,4 +1,4 @@
-package com.exampledagger2.softwarecompany.dagger;
+package com.exampledagger2.app.di;
 
 import java.lang.annotation.Documented;
 import java.lang.annotation.Retention;

@@ -1,7 +1,8 @@
-package com.exampledagger2.softwarecompany;
+package com.exampledagger2.app.model;
 
 
-import com.exampledagger2.softwarecompany.dagger.PerActivity;
+import com.exampledagger2.app.interfaces.IDesigner;
+import com.exampledagger2.app.interfaces.IDeveloper;
 
 import javax.inject.Inject;
 

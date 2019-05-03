@@ -1,6 +1,6 @@
-package com.exampledagger2.softwarecompany;
+package com.exampledagger2.app.model;
 
-import com.exampledagger2.MyLog;
+import com.exampledagger2.app.util.MyLog;
 
 public class Computer {
     public void start() {

@@ -1,9 +1,9 @@
-package com.exampledagger2.softwarecompany.dagger;
+package com.exampledagger2.app.di;
 
-import com.exampledagger2.softwarecompany.AndroidDeveloper;
-import com.exampledagger2.softwarecompany.AndroidStudio;
-import com.exampledagger2.softwarecompany.Computer;
-import com.exampledagger2.softwarecompany.IDeveloper;
+import com.exampledagger2.app.model.AndroidDeveloper;
+import com.exampledagger2.app.model.AndroidStudio;
+import com.exampledagger2.app.model.Computer;
+import com.exampledagger2.app.interfaces.IDeveloper;
 
 import dagger.Binds;
 import dagger.Module;
